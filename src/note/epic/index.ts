@@ -1,1 +1,10 @@
-export const a = "빠이팅";
+
+const EpicIndex = () => {
+  return (
+    <div>
+    EpicIndex
+    </div>
+  )
+}
+
+export default EpicIndex;
