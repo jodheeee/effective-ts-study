@@ -14,8 +14,8 @@ function Item01() {
           <li>TS finds out runtime errors beforehand (BUT, not all errors)</li>
           <li>No errors, but not intented way</li>
           <li>
-            Ts: "MODELING" JS' runtime
-            <p>i.e) const x = 2 + '3'; //정상, string type</p>
+            Ts: `&apos;`MODELING`&apos;` JS`&apos;` runtime
+            <p>i.e: const x = 2 + `&apos;`3`&apos;`; //정상, string type</p>
           </li>
         </ul>
       </div>
