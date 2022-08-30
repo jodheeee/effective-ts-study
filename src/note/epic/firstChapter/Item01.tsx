@@ -3,9 +3,9 @@ import React from "react";
 function Item01() {
   return (
     <div>
-      <p>Item1 : Relationship between JS and TS</p>
+      <p>Item01: Relationship between JS and TS</p>
       <div>
-        TS: Higher Set of JS ( 상위 집합 ) : ALL JS === Ts // All TS !== JS
+        TS: SuperSet of JS ( 상위 집합 ) : ALL JS === Ts // All TS !== JS
         <p>WHY? TS gets extra grammars</p>
       </div>
       <div>

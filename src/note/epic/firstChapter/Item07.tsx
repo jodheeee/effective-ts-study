@@ -16,7 +16,8 @@ function Item07() {
           </ul>
         </div>
         <div>
-        <p>extends: Subtype extends MainType</p>
+          <p>extends: Subtype extends MainType</p>
+          <p>타입이 값의 집합: 동일한 값의 집합을 가지는 두 타입 = 같다</p>
         </div>
       </div>
     </div>
