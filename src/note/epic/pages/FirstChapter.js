@@ -4,6 +4,7 @@ import Item02 from "../firstChapter/Item02";
 
 import Item03 from "../firstChapter/Item03";
 import Item04 from "../firstChapter/Item04";
+import Item05 from "../firstChapter/Item05";
 
 function FirstChapter() {
   return (
@@ -12,6 +13,7 @@ function FirstChapter() {
       <Item02 />
       <Item03 />
       <Item04 />
+      <Item05 />
     </>
   );
 }
