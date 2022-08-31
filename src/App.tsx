@@ -1,5 +1,8 @@
+import React from "react";
+import SangE from "./note/sange";
+
 function App() {
-  return <div className="App" />;
+  return <SangE />;
 }
 
 export default App;
