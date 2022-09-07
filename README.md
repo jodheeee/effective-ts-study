@@ -8,6 +8,8 @@
 - Dante (https://github.com/Jokyuseong)
 - SangE (https://github.com/tkddl5990)
 - JY (https://github.com/Jungyub)
+- Howard (https://github.com/Sarkh91)
+- Eloy (https://github.com/charole)
 
 ### ▪︎ 운영 방식 🐈
  - 이펙티브 타입스크립트 도서 이용
