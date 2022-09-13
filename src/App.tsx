@@ -1,11 +1,8 @@
-import EpicIndex from "./note/epic/index";
+import React from 'react';
+import SangE from './note/sange';
 
 function App() {
-  return (
-    <div className="App">
-      <EpicIndex />
-    </div>
-  );
+  return <SangE />;
 }
 
 export default App;
