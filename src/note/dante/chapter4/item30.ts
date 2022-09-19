@@ -1,0 +1,1 @@
+export const point1 = '주석보다 타입스크립트가 더 좋을 것이다.'
