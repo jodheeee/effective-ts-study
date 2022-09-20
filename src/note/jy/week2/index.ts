@@ -53,8 +53,7 @@ export const item14 = "타입 연산과 제너릭 사용으로 반복 줄이기"
 export const item15 = "동적 데이터에 인덱스 시그니처 사용하기";
 // 런타임 때까지 객체의 속성을 알 수 없을 경우에만 인덱스 시그니처를 사용하고, 가능하다면 정확한 타입을 사용하는 것이 좋다.
 
-export const item16 =
-  "number인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기";
+export const item16 = "number인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기";
 // 배열은 객체이므로 키는 문자열이고, 때문에 number를 사용하기보다 Array, 튜플, ArrayLike를 사용하는 것이 좋다.
 
 export const item17 = "변경 관련된 오류 방지를 위해 readonly 사용하기";
