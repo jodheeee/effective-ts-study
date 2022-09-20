@@ -1,11 +1,16 @@
 // import FirstChapter from "./pages/FirstChapter";
-import SecondChapter from "./pages/SecondChapter";
+import React from 'react';
+import FourthChapter from './pages/FourthChapter';
+import SecondChapter from './pages/SecondChapter';
+import ThirdChapter from './pages/ThirdChapter';
 
 function EpicIndex() {
   return (
     <div>
       {/* <FirstChapter /> */}
-      <SecondChapter />
+      {/* <SecondChapter /> */}
+      {/* <ThirdChapter /> */}
+      <FourthChapter />
     </div>
   );
 }
