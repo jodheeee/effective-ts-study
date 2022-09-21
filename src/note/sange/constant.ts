@@ -12,4 +12,8 @@ export const NOTION_LINK: Record<number, string> = {
   21: 'https://www.notion.so/petfriends/item21-9cc22d9483ed4dcbafca6934c35ababf',
   22: 'https://www.notion.so/petfriends/item22-c731665a27b74304b49463837bd79f35',
   25: 'https://www.notion.so/petfriends/item25-async-dc3bb9d04b8240fdbbbe8d5d35f59529',
+  28: 'https://www.notion.so/petfriends/item28-1d32e56d12b54e58a79d2519eca772da',
+  30: 'https://www.notion.so/petfriends/item30-c2b64ec98bf9446190ecb9abdddf9821',
+  32: 'https://www.notion.so/petfriends/item32-ac617946718a477199c2ee318a2b59a6',
+  33: 'https://www.notion.so/petfriends/item33-string-ccb70c2c430c41ffbe0cec82b1b861ee'
 };
