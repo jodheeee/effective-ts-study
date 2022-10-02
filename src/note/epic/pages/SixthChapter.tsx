@@ -6,6 +6,7 @@ import Item48 from '../sixthChapter/Item48'
 import Item49 from '../sixthChapter/Item49'
 import Item50 from '../sixthChapter/Item50'
 import Item51 from '../sixthChapter/Item51'
+import Item52 from '../sixthChapter/Item52'
 
 
 const SixthChapter = () => {
@@ -18,6 +19,7 @@ const SixthChapter = () => {
         <Item49 />
         <Item50 />
         <Item51 />
+        <Item52/>
     </>
   )
 }
