@@ -1,4 +1,4 @@
-export const NOTION_LINK: Record<number, string> = {
+export const NOTION_LINK: Record<number|string, string> = {
   2: 'https://www.notion.so/petfriends/item2-tsconfig-json-107e4158dda5478db05eb13db8478681',
   5: 'https://www.notion.so/petfriends/item5-any-9238c7bdafd64142a9d738959b5800f8',
   9: 'https://www.notion.so/petfriends/item9-3aa36099300a4453b0c4c77b18cc5ca3',
@@ -15,5 +15,6 @@ export const NOTION_LINK: Record<number, string> = {
   28: 'https://www.notion.so/petfriends/item28-1d32e56d12b54e58a79d2519eca772da',
   30: 'https://www.notion.so/petfriends/item30-c2b64ec98bf9446190ecb9abdddf9821',
   32: 'https://www.notion.so/petfriends/item32-ac617946718a477199c2ee318a2b59a6',
-  33: 'https://www.notion.so/petfriends/item33-string-ccb70c2c430c41ffbe0cec82b1b861ee'
+  33: 'https://www.notion.so/petfriends/item33-string-ccb70c2c430c41ffbe0cec82b1b861ee',
+  'any': 'https://www.notion.so/petfriends/Any-d9233fd2bffa437bbee93af1d6f0afd0'
 };
