@@ -1,0 +1,1 @@
+const point1 = '/** */ JSDoc과 @param , @returns TsDoc을 간단히 요점만 적어 잘 사용하자.'
