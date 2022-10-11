@@ -1,6 +1,6 @@
 import React from 'react'
 
-const restItems = () => {
+const RestItems = () => {
   return (
     <div>
           <h1>Item53: use more of ECMAScript </h1>
@@ -36,4 +36,4 @@ const restItems = () => {
   )
 }
 
-export default restItems
+export default RestItems
